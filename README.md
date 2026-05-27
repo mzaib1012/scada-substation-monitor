@@ -22,7 +22,7 @@ The system utilizes a client-server architecture, where a background Modbus TCP 
 The following dashboard provides a real-time visualization of substation metrics, including voltage levels and current flow, with an integrated switchgear state indicator.
 
 ![SCADA Substation Monitoring Dashboard](assets/scada-dashboard-preview.png)
-**Real-time operator dashboard displaying live voltage telemetry and switchgear status indicators**
+*Figure 1: Real-time operator dashboard displaying live voltage telemetry and switchgear status indicators.*
 ---
 
 ## Repository Structure
